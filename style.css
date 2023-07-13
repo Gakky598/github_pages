@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Moirai+One&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: linear-gradient(#3ce3f6, #1be354);
+    color: rgb(255, 123, 0);
+}
+.hero_title{
+    text-align: center;
+    line-height: 100vh;
+    font-family: 'Moirai One', cursive;
+
+}
