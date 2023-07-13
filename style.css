@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Moirai+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Moirai+One&family=Silkscreen&display=swap');
 *{
     margin: 0px;
     padding: 0px;
@@ -10,6 +10,6 @@ body{
 .hero_title{
     text-align: center;
     line-height: 100vh;
-    font-family: 'Moirai One', cursive;
-
+    font-size: xx-large;
+    font-family: 'Silkscreen', cursive;
 }
